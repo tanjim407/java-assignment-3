@@ -101,7 +101,6 @@ public class SumWithoutSmallest {
         reverseOrder(randomNumbers);
 
         firstLast(randomNumbers);
-
     }
 
 }
